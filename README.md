@@ -1,4 +1,8 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Alex%20Capstick👾&width=350&height=150)](https://alexcapstick.github.io)
+<p align="center">
+  <img width="600" src="https://github.com/alexcapstick/alexcapstick/blob/main/alex-capstick.gif">
+</p>
+
+
 - 🕸️ [My website](https://alexcapstick.github.io)
 - 🔭 I’m currently working on applying machine learning to healthcare 🩺
 - 🌱 I’m interested in:
