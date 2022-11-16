@@ -1,4 +1,8 @@
-### Hi there 👋
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Alex%20Capstick%20👾&width=800&height=200)](https://alexcapstick.github.io)
+
+🕸️ [My website](https://alexcapstick.github.io)
+🔭 I’m currently working on applying machine learning to healthcare 🩺
+
 
 <!--
 **alexcapstick/alexcapstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
