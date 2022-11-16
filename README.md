@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="600" src="https://github.com/alexcapstick/alexcapstick/blob/main/alex-capstick.gif">
+  <a href="https://alexcapstick.github.io">
+    <img width="600" src="https://github.com/alexcapstick/alexcapstick/blob/main/alex-capstick.gif">
+  </a>
 </p>
 
 
