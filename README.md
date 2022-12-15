@@ -8,13 +8,14 @@
 
 - 🕸️ [My website](https://alexcapstick.github.io)
 - 🔭 I’m currently working on applying machine learning to healthcare 🩺
-- 🌱 I’m interested in:
+- 🎓 I’m interested in:
   - Machine learning for Healthcare
   - Meta-Learning
   - Continual Learning
   - Few-Shot Learning
   - Learning from Noisy Data
   - Mathematics
+
 
 
 <p align="center">
