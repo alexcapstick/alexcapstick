@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://alexcapstick.github.io">
-    <img width="600" src="https://github.com/alexcapstick/alexcapstick/blob/main/dvd_corner.gif">
+    <img width="200" src="https://github.com/alexcapstick/alexcapstick/blob/main/dvd_corner.gif">
   </a>
 </p>
 
