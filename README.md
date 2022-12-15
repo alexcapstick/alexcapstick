@@ -15,7 +15,9 @@
   - Few-Shot Learning
   - Learning from Noisy Data
   - Mathematics
-
+- 🌱 I'm learning
+  - JAX and FLAX
+  - HTML and CSS
 
 
 <p align="center">
