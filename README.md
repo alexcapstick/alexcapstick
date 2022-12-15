@@ -5,6 +5,7 @@
 </p>
 
 
+
 - 🕸️ [My website](https://alexcapstick.github.io)
 - 🔭 I’m currently working on applying machine learning to healthcare 🩺
 - 🌱 I’m interested in:
@@ -14,6 +15,14 @@
   - Few-Shot Learning
   - Learning from Noisy Data
   - Mathematics
+
+
+<p align="center">
+  <a href="https://alexcapstick.github.io">
+    <img width="600" src="https://github.com/alexcapstick/alexcapstick/blob/main/dvd_corner.gif">
+  </a>
+</p>
+
 
 
 <!--
@@ -30,3 +39,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
