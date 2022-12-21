@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://alexcapstick.github.io">
-    <img width="600" src="https://github.com/alexcapstick/alexcapstick/blob/main/alex-capstick-white.gif">
+    <img src="/alex-capstick-white.gif" width="600"> 
   </a>
 </p>
-
 
 
 - 🕸️ [My website](https://alexcapstick.github.io)
@@ -22,7 +21,7 @@
 
 <p align="center">
   <a href="https://alexcapstick.github.io">
-    <img width="100" src="https://github.com/alexcapstick/alexcapstick/blob/main/dvd_corner.gif">
+    <img width="100" src="/dvd_corner.gif">
   </a>
 </p>
 
