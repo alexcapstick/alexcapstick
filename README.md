@@ -1,22 +1,11 @@
-<p align="center">
-  <a href="https://alexcapstick.github.io">
-    <img src="/alex-capstick-white.gif" width="600"> 
-  </a>
-</p>
-
-
 - 🕸️ [My website](https://alexcapstick.github.io)
 - 🔭 I’m currently working on applying machine learning to healthcare 🩺
 - 🎓 I’m interested in:
   - Machine learning for Healthcare
   - Meta-Learning
-  - Continual Learning
-  - Few-Shot Learning
+  - Applications of Language Models
   - Learning from Noisy Data
   - Mathematics
-- 🌱 I'm learning
-  - JAX and FLAX
-  - HTML and CSS
 
 
 <p align="center">
