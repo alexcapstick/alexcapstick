@@ -7,15 +7,6 @@
   - Learning from Noisy Data
   - Mathematics
 
-
-<p align="center">
-  <a href="https://alexcapstick.github.io">
-    <img width="100" src="/dvd_corner.gif">
-  </a>
-</p>
-
-
-
 <!--
 **alexcapstick/alexcapstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
