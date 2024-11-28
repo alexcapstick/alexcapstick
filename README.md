@@ -5,7 +5,7 @@
   - Meta-Learning
   - Applications of Language Models
   - Learning from Noisy Data
-  - Mathematics
+  - Mathematics (a broad statement, I know)
 
 <!--
 **alexcapstick/alexcapstick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
